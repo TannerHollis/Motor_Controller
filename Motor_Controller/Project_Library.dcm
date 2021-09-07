@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LTC7060IMSE
+D 100V Half-Bridge Driver with Floating Grounds and Adjustable Dead-Time
+$ENDCMP
+#
+#End Doc Library
