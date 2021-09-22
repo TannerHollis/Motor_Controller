@@ -1303,23 +1303,23 @@ $EndComp
 $Comp
 L Amplifier_Operational:LM2902 U2
 U 2 1 6174702F
-P 4675 6925
-F 0 "U2" H 4675 7292 50  0000 C CNN
-F 1 "LM2902" H 4675 7201 50  0000 C CNN
-F 2 "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm" H 4625 7025 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 4725 7125 50  0001 C CNN
-	2    4675 6925
-	1    0    0    -1  
-$EndComp
-$Comp
-L Amplifier_Operational:LM2902 U2
-U 3 1 61749779
 P 4675 5275
 F 0 "U2" H 4675 5642 50  0000 C CNN
 F 1 "LM2902" H 4675 5551 50  0000 C CNN
 F 2 "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm" H 4625 5375 50  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 4725 5475 50  0001 C CNN
-	3    4675 5275
+	2    4675 5275
+	1    0    0    -1  
+$EndComp
+$Comp
+L Amplifier_Operational:LM2902 U2
+U 3 1 61749779
+P 4675 6925
+F 0 "U2" H 4675 7292 50  0000 C CNN
+F 1 "LM2902" H 4675 7201 50  0000 C CNN
+F 2 "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm" H 4625 7025 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 4725 7125 50  0001 C CNN
+	3    4675 6925
 	1    0    0    -1  
 $EndComp
 $Comp
